@@ -1,0 +1,16 @@
+<!--script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.2.228/pdf.js"></script>-->
+<link href="https://accesa.sharepoint.com/sites/AAStamp_POC/SiteAssets/previewDoc.css" rel="stylesheet" type="text/css" />
+
+<canvas class="ui-droppable stamp-droppable" width="600" height="400">
+</canvas>
+
+<ul class="stamp-draggable">
+    <li>
+        <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width="80px"
+            alt="google">
+    </li>
+</ul>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
+<script src="https://accesa.sharepoint.com/sites/AAStamp_POC/SiteAssets/previewDoc.js"></script>

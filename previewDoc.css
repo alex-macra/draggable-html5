@@ -1,0 +1,27 @@
+  .stamp-droppable {
+    background-color:#f0f0f0;
+    display: block;
+    z-index: 10;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    border: 3px dashed #f0f0f0;
+  }
+  
+  .hovered {
+    border-color:green;
+  }
+  
+  .stamp-draggable {
+    position: relative;
+    z-index: 20;
+    width: 8rem;
+    height: 4rem;
+    padding: 0.5rem;
+  }
+
+  .stamp-draggable li {
+    width: 50px;
+    height: 50px;
+    list-style-type: none;
+  }
